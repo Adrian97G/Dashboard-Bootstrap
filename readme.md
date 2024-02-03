@@ -13,7 +13,7 @@ This is a dashboard where you can see detailed information about the control of 
 
 ## :camera_flash: Project Image
 
-![My Project]()
+![My Project](https://github.com/Adrian97G/Dashboard-Bootstrap/blob/main/images/Dashboard-boots.png)
 
 ## :link: Link to see the project in action
 
